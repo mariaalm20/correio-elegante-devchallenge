@@ -27,6 +27,7 @@
   * [Icones](#icones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Compartilhe](#compartilhe)
+* [Design](#design)
 
 # Devchallenge
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
@@ -79,6 +80,9 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o react-native
 
 ## Tipo de fonte:
 - Poppins
+
+## Design:
+Você pode acessar o desgin final no Figma também, acessando esse link: https://www.figma.com/file/rUPm3O99NHcxkK2PEx2I33/Correio-Elegante?node-id=0%3A1
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
