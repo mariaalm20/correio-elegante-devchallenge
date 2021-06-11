@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/50887367/121609161-b25f6c00-ca29-11eb-9d1d-496b20aa12bc.png" alt="Logo" width="500">
+    <img src="https://user-images.githubusercontent.com/50887367/121689015-829c7c80-ca9a-11eb-829c-ba2e508655bf.png" alt="Logo" width="800">
 
   <h3 align="center">Correio Elegante by <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a></h3>
  <br />
